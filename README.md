@@ -131,5 +131,4 @@ The dashboard includes a clean and intuitive interface that facilitates ease of 
 ## Customization 
 
 Feel free to add your own customizations! You can modify the visuals, tweak metrics, or even connect additional datasets to expand the insights provided.
-  - Tableu Dashboard Link:
-  - Data Files:
+ 
